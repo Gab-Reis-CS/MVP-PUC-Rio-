@@ -28,8 +28,23 @@ Este projeto visa explorar, tratar e visualizar um conjunto de dados públicos d
   - matplotlib
   - scikit-learn
 
+🛠 Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Gab-Reis-CS/MVP-PUC-Rio.git
+   cd MVP-PUC-Rio
+
 ## Recursos
 Dados públicos da PRF (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+
+## Uso
+- Após abrir o notebook, siga as células na ordem para:
+- Carregar e explorar os dados da PRF.
+- Aplicar transformações e gerar visualizações.
+- Interpretar os resultados de histogramas, boxplots, entre outros.
+- Visualizar a média e o desvio padrão das variáveis.
+- Realizar normalização e padronização de atributos numéricos.
 
 Licença
 Este projeto está licenciado sob a MIT License.
